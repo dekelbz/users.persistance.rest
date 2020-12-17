@@ -1,0 +1,3 @@
+singleServerConfig:
+  address: "redis://ec2-15-237-37-79.eu-west-3.compute.amazonaws.com:6379"
+  password: "s1Alvia1"
